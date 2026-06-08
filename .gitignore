@@ -27,6 +27,7 @@ mlops-hw-tf-api-key.*
 # MLflow / local data
 mlruns/
 mlflow.db
+mlflow-artifacts/
 
 # Promotion CLI audit log (Task 2)
 promotion-log.jsonl
